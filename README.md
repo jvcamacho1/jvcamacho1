@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="[https://www.linkedin.com/in/7oskaa](https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://www.codingame.com/home"></img></a>
+
+
+<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="[https://www.codingame.com/home](https://www.facebook.com/CodinGame/photos/a.136829039795639/527568944054978/?__tn__=%3C)"></img></a>
