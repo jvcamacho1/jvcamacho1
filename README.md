@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
