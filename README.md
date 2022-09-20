@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvcamacho1&theme=algolia" alt="jvcamacho1" /></p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
 <a href="[https://www.linkedin.com/in/7oskaa](https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ## My Competitive Programming Profiles
 <p align="center">
