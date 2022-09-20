@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvcamacho1&theme=algolia" alt="jvcamacho1" /></p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <a href="[https://www.linkedin.com/in/7oskaa](https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-## 👀 My Competitive Programming Profiles
-
+## My Competitive Programming Profiles
 <p align="center">
 <a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"></img></a>
 </p>
 
 ## 🛠️ My Skills
+### 👉 Programming languages
 <p align="center"> 
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
