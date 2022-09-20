@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="[https://www.linkedin.com/in/7oskaa](https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="[[https://www.codingame.com/home](https://www.facebook.com/CodinGame/photos/a.136829039795639/527568944054978/?__tn__=%3C)](https://scontent.fldb1-1.fna.fbcdn.net/v/t31.18172-8/10549937_527568944054978_1386082641248869554_o.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Lcbxc1A-YdcAX9HShld&_nc_ht=scontent.fldb1-1.fna&oh=00_AT9-H6e_7g3h6kZm6mj-fT1Q7cQ0tGFajyU9_cfSMNlgtw&oe=634F9B17)"></img></a>
+<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"></img></a>
