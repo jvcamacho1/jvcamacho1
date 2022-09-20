@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvcamacho1" alt="jvcamacho1" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvcamacho1&theme=algolia" alt="jvcamacho1" /></p>
 
 <a href="[https://www.linkedin.com/in/7oskaa](https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -39,3 +39,8 @@ Here are some ideas to get you started:
   </a>
 </p>
  ### 👉 Software & Tools
+ 
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/jvcamacho1"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jvcamacho1's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
