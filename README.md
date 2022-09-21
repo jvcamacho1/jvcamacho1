@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="(https://www.linkedin.com/in/jos%C3%A9-victor-xavier-camacho-9a1a34197/)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="180" height="40" alt="LinkedIn"/></a>
 </p>
 
-## My Competitive Programming Profiles
+## ⚡ My Competitive Programming Profiles
 <p align="center">
   <a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"
    width="150" height="40"></img></a>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
  </p>
- <summary><b>⚡ Recent GitHub Activity</b></summary>
+## ⚡ Recent GitHub Activity
  <p align="center"> 
   <br/>
    <a href="https://github.com/jvcamacho1"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jvcamacho1&theme=react-dark" /></a>
