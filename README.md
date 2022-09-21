@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ## My Competitive Programming Profiles
 <p align="center">
-<a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"></img></a>
+  <a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"></img></a>
+  <a href="https://leetcode.com/jvcamacho1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
+  <a href="https://www.hackerrank.com/jv_camacho"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
 </p>
 
 ## 🛠️ My Skills
@@ -39,11 +41,21 @@ Here are some ideas to get you started:
   <a> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+
+</p>
+### 👉 Databases
+<p align="center"> 
   <a> 
     <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <a> 
+    <img alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+  <a> 
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+  </a>
 </p>
-### 👉 Software & Tools
+### 👉 Software and tools
  <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
