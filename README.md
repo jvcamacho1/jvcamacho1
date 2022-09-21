@@ -31,10 +31,7 @@ Here are some ideas to get you started:
    width="150" height="40"></img></a>
   <a href="https://www.hackerrank.com/jv_camacho"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"           width="150" height="40"></img></a>
 </p>
-## My Languages Statistics
-<p align="center">
-    [![Jvcamacho1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvcamacho1)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 ## 🛠️ My Skills
 ## Programming languages
 <p align="center"> 
