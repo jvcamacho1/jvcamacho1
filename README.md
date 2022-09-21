@@ -32,22 +32,21 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/jv_camacho"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"           width="150" height="40"></img></a>
 </p>
 
-## 🛠️ My Skills
-## Programming languages
+## 🛠️ My Stacks
+<!--📋 Languages-->
 <p align="center"> 
   <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
   <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
   <a><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
   <a><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"></a>
 </p>
-💾 Databases
+<!--💾 Databases-->
 <p align="center"> 
   <a> <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white"></a>
   <a> <img alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white"></a>
   <a> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white"></a>
 </p>
-
-📚 Frameworks, Platforms and Libraries
+<!--📚 Frameworks, Platforms and Libraries-->
 <p align="center">
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
@@ -59,8 +58,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
 </p>
-
-☁️ Hosting/SaaS
+<!--☁️ Hosting/SaaS-->
 <p align="center">
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
 <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white"</a> 
