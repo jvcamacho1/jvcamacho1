@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white"></a>
 <a href="#"><img alt="OpenCv" src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"></a>
 <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"></a>
-<a href="#"><img alt="Spring" src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
 </p>
 
 ☁️ Hosting/SaaS
