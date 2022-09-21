@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
   <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"></a>
   <a><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
-  <a><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"></a>
 </p>
 💾 Databases
 <p align="center"> 
