@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.codingame.com/profile/ce3be6c5b8896d64e3c98477fffbddf46685844"><img src="https://github.com/jvcamacho1/jvcamacho1/blob/main/cg.PNG"></img></a>
   <a href="https://leetcode.com/jvcamacho1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
-  <a href="https://www.hackerrank.com/jv_camacho"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+  <a href="https://www.hackerrank.com/jv_camacho"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"           width="50" height="50"></img></a>
 </p>
 
 ## 🛠️ My Skills
