@@ -31,17 +31,19 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 ### 👉 Programming languages
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank">
+  <a>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>
-  <a href="https://www.java.com" target="_blank"> 
+  <a> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+  <a>
+    <img alt="MySql" src="![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)">
+  </a>
 </p>
- ### 👉 Software & Tools
+### 👉 Software & Tools
  <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
