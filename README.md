@@ -52,10 +52,4 @@
 </p>
 
 
- </p>
-⚡ Recent GitHub Activity
- <p align="center"> 
-  <br/>
-   <a href="https://github.com/jvcamacho1"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jvcamacho1&theme=react-dark" /></a>
-   </p>
-  <br/>
+ 
