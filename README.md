@@ -32,7 +32,8 @@
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white"width="120" height="30"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"width="120" height="30"></a>
 <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white"width="120" height="30"></a>
-<a href="#"><img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white"width="120" height="30"></a>
+<a href="#"><img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white"width="120" height="30"</a>
+<a href="#"><img alt="DataBricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"width="120" height="30"</a>
 <a href="#"><img alt="OpenCv" src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"width="120" height="30"></a>
 <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"width="120" height="30"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"width="120" height="30"></a>
