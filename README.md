@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Data Engineer @ GFT</b> · AWS · Big Data · Infrastructure as Code<br>
-  Londrina, Brazil
 </p>
 
 <p align="center">
