@@ -24,7 +24,7 @@ I'm a Computer Engineer (UTFPR) working with data since 2022. I design, build, a
 
 | Project | What it is | Stack |
 |---|---|---|
-| 📈 **indicadores-br**<br>[dashboard](https://jvcamacho1.github.io/indicadores-br/) · [code](https://github.com/jvcamacho1/indicadores-br) | ELT pipeline for Brazilian economic indicators (Central Bank and IBGE APIs): monthly Airflow DAG with backfill, layered dbt models with tests and docs, published as a static dashboard. | Airflow · dbt · PostgreSQL · Docker · GitHub Actions |
+| 📈 **indicadores-br**<br>[dashboard](https://jvcamacho.dev/indicadores-br/) · [code](https://github.com/jvcamacho1/indicadores-br) | ELT pipeline for Brazilian economic indicators (Central Bank and IBGE APIs): monthly Airflow DAG with backfill, layered dbt models with tests and docs, published as a static dashboard. | Airflow · dbt · PostgreSQL · Docker · GitHub Actions |
 | 🧭 **Portfolio**<br>[jvcamacho1.github.io](https://jvcamacho1.github.io) · [code](https://github.com/jvcamacho1/jvcamacho1.github.io) | Bilingual (PT/EN) portfolio with my experience, stack, and projects. | HTML · CSS · JavaScript |
 
 ## Tech stack
